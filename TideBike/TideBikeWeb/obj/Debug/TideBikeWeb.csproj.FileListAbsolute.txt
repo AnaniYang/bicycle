@@ -1,0 +1,6 @@
+F:\大三\ASP.NET企业级开发\项目源码\bicycle\TideBike\TideBikeWeb\bin\TideBikeWeb.dll.config
+F:\大三\ASP.NET企业级开发\项目源码\bicycle\TideBike\TideBikeWeb\bin\TideBikeWeb.dll
+F:\大三\ASP.NET企业级开发\项目源码\bicycle\TideBike\TideBikeWeb\bin\TideBikeWeb.pdb
+F:\大三\ASP.NET企业级开发\项目源码\bicycle\TideBike\TideBikeWeb\obj\Debug\TideBikeWeb.csprojResolveAssemblyReference.cache
+F:\大三\ASP.NET企业级开发\项目源码\bicycle\TideBike\TideBikeWeb\obj\Debug\TideBikeWeb.dll
+F:\大三\ASP.NET企业级开发\项目源码\bicycle\TideBike\TideBikeWeb\obj\Debug\TideBikeWeb.pdb
